@@ -1,0 +1,52 @@
+.navbar {
+    background-color: #f8f8f8;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+.navbar-brand {
+    color: #000;
+}
+
+.mobile-navbar {
+    background-color: #000;
+}
+
+.mobile-navbar .navbar-toggle {
+    border: 1px solid #000;
+}
+
+.mobile-navbar .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.tall-section {
+    background-color: #f2f2f2;
+    padding: 50px 0;
+}
+
+.dialog {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.dialog h3 {
+    margin-top: 0;
+}
+
+.dialog p {
+    margin-bottom: 20px;
+}
+
+.back-to-top {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
